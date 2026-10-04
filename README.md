@@ -243,3 +243,11 @@ Possible future improvements include:
 **Noor-Ul-Ain**
 
 Artificial Intelligence Student | Machine Learning & Data Analytics
+
+---
+
+##  Live Demo
+
+Try the deployed Spam Email Detector:
+
+ [Open Live App](https://spam-email-detector-kxkzqzvgkxnguzj4rc3evz.streamlit.app/)
